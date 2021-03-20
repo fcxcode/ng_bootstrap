@@ -1,3 +1,20 @@
+## 1.2.0
+
+- upgrade `angular` to `^6.0.0` (fixes: #135)
+- upgrade `stream_transformer` to `^1.2.0`
+- upgrade `angular_forms` to `^3.0.0`
+- fix lint warnings
+- fix errors in demo after upgrade
+
+## 1.2.0-alpha.1
+
+- upgrade `font_awesome` to `5.10.1`
+- upgrade `bootstrap_sass` to `4.3.1` (fixes: #127)
+
+## 1.2.0-alpha
+
+- upgrade `angular` to `^6.0.0-alpha`
+
 ## 1.1.1
 
 - fix `bs_tabx` not working correctly when it is inside a `ngIf` template element (fix #109)
